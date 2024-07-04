@@ -1,0 +1,19 @@
+{
+  "name": "@coffeejunior/framework-for-browser-and-nodejs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoffeeJunioR/framework-for-browser-and-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoffeeJunioR/framework-for-browser-and-nodejs/issues"
+  },
+  "homepage": "https://github.com/CoffeeJunioR/framework-for-browser-and-nodejs#readme",
+  "description": ""
+}
